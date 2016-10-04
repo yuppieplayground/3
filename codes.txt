@@ -1,0 +1,4709 @@
+Brevity
+MULTI-SERVICE
+BREVITY CODES
+FM 1-02.1 (FM 3-54.10)
+MCRP 3-25B
+NTTP 6-02.1
+AFTTP(I) 3-2.5
+
+JUNE 2005
+DISTRIBUTION RESTRICTION : Distribution
+authorized to the DOD and DOD contractors
+only to protect technical or operational
+information from automatic dissemination under
+the International Exchange Program or by other
+means. This determination was made on
+15 June 2005. Other requests must be referred
+to HQ TRADOC, ATTN: ATFC-RD, Fort
+Monroe, VA 23651; HQ MCCDC, C427,
+Quantico, VA 22134; NWCD, ATTN: N5,
+Newport, RI 02841; or HQ AFDC/DJ, Maxwell
+AFB, AL 36112.
+DESTRUCTION NOTICE: Destroy by any
+method that will prevent disclosure of contents
+or reconstruction of the document.
+
+FOREWORD
+This publication has been prepared under our direction for use by our
+respective commands and other commands as appropriate.
+
+DAVID A. FASTABEND
+Brigadier General, US Army
+Deputy Director/Chief of Staff
+Futures Center
+US Army Training and doctrine
+Command
+
+THOMAS L. CONANT
+Brigadier General, USMC
+Director
+Expeditionary Force
+Development Center
+
+JOHN M. KELLY
+Rear Admiral, USN
+Commander
+Navy Warfare Development
+Command
+
+BENTLEY B. RAYBURN
+Major General, USAF
+Commander
+Headquarters Air Force
+Doctrine Center
+
+This publication is available through the ALSA Web site
+(www.alsa.mil); through the Army at Army Knowledge Online (AKO)
+(www.us.army.mil) and at the General Dennis J. Reimer Training and
+Doctrine Digital Library (www.train.army.mil) Web sites; and through
+the Air Force at the Air Force Publishing Web site
+(www.e-publishing.af.mil).
+
+PREFACE
+1. Purpose
+This publication will ease coordination and improve understanding during
+multi-Service operations. A brevity code is “a code which provides no security
+but which has as its sole purpose the shortening of messages rather than the
+concealment of their content” (Joint Publication 1-02).
+
+2. Scope
+This publication standardizes air-to-air, air-to-surface, surface-to-air, and
+surface-to-surface brevity codes. The scope is limited to those [voice] brevity
+codes used in multi-Service operations and does not include words unique to
+single-Service operations. While not authoritative in nature, all Services agree to
+these brevity code meanings. The brevity codes have been forwarded for
+inclusion or modification of current North Atlantic Treaty Organization (NATO)
+joint brevity words and Allied Communications Publications of Canada-New
+Zealand-United Kingdom-Australia-United States agreements.
+
+3. Applicability
+This publication is intended for air and surface operations personnel at the
+tactical level.
+
+4. Implementation Plan
+Participating Service command offices of primary responsibility (OPRs) will
+review this publication, validate the information and, where appropriate,
+reference and incorporate it in Service manuals, regulations, and curricula as
+follows:
+Army Upon approval and authentication, this publication incorporates the
+procedures contained herein into the United States (US) Army Doctrine and
+Training Literature Program as directed by the Commander, US Army Training
+and Doctrine Command (TRADOC). Distribution is in accordance with applicable
+directives and the initial distribution number (IDN) listed on the authentication
+page.
+
+15 June 2005
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+i
+
+Marine Corps. The Marine Corps will incorporate the procedures in this
+publication in US Marine Corps training and doctrine publications as directed by
+the Commanding General, US Marine Corps Combat Development Command
+(MCCDC). Distribution is in accordance with the Marine Corps Publication
+Distribution System (MCPDS).
+Navy. The Navy will incorporate these procedures in US Navy training and
+doctrine publications as directed by the Commander, Navy Warfare Development
+Command (NWDC)[N5]. Distribution is in accordance with Military Standard
+Requisition and Issue Procedure Desk Guide (MILSTRIP Desk Guide) Navy
+Supplement Publication-409 (NAVSUP P-409).
+Air Force. The Air Force will incorporate the procedures in this publication in
+accordance with applicable governing directives. Distribution is in accordance
+with Air Force Instruction (AFI) 33-360.
+
+5. User Information
+a. TRADOC, MCCDC, NWDC, Headquarters AFDC, and the Air Land Sea
+Application (ALSA) Center developed this publication with the joint participation
+of the approving Service commands. ALSA will review and update this
+publication as necessary.
+b. This publication reflects current joint and Service doctrine, command and
+control organizations, facilities, personnel, responsibilities, and procedures.
+Changes in Service protocol, appropriately reflected in joint and Service
+publications, will likewise be incorporated in revisions to this document.
+c. We encourage recommended changes for improving this publication.
+Key your comments to the specific page and paragraph and provide a rationale
+for each recommendation. Send comments and recommendations directly to—
+
+Marine Corps PCN: 144 000015 00
+
+ii
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+Army
+Commander
+US Army Training and Doctrine Command
+ATTN: ATFC-RD
+Fort Monroe VA 23651-5000
+DSN 680-4489 COMM (757) 788-4489
+E-mail: doctrine@monroe.army.mil
+
+Marine Corps
+Commanding General
+US Marine Corps Combat Development Command
+ATTN: C427
+3300 Russell Road, Suite 318A
+Quantico VA 22134-5021
+DSN 278-2871/6227 COMM (703) 784-2871/6227
+E-mail: deputydirectordoctrine@mccdc.usmc.mil
+
+Navy
+Commander
+Navy Warfare Development Command
+ATTN: N5
+686 Cushing Road
+Newport RI 02841-1207
+DSN 948-1070/4201 COMM (401) 841-1070/4201
+E-mail: alsapubs@nwdc.navy.mil
+
+Air Force
+HQ AFDC/DJ
+155 North Twining Street
+Maxwell AFB AL 36112-6112
+DSN 493-2640/2256 COMM (334) 953-2640/2256
+E-mail: afdc.dj@maxwell.af.mil
+ALSA
+ALSA Center
+ATTN: Director
+114 Andrews Street
+Langley AFB VA 23665-2785
+DSN 575-0902 COMM (757) 225-0902
+E-mail: alsa.director@langley.af.mil
+
+15 June 2005
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+iii
+
+*FM 1-02.1 (FM 3-54.10)
+MCRP 3-25B
+NTTP 6-02.1
+AFTTP(I) 3-2.5
+FM 1-02.1
+MCRP 3-25B
+NTTP 6-02.1
+AFTTP(I) 3-25.5
+
+US Army Training and Doctrine Command
+Fort Monroe, Virginia
+Marine Corps Combat Development Command
+Quantico, Virginia
+Navy Warfare Development Command
+Newport, Rhode Island
+Headquarters, Air Force Doctrine Center
+Maxwell Air Force Base, Alabama
+15 June 2005
+
+BREVITY
+MULTI-SERVICE BREVITY CODES
+TABLE OF CONTENTS
+
+Page
+CHAPTER I: SUMMARY OF CHANGES ................................................................. I-1
+NEW TERMS.............................................................................................................. I-1
+DELETED TERMS ....................................................................................................... I-2
+CHANGES TO TERM MEANINGS.................................................................................. I-2
+CHAPTER II: MULTI-SERVICE BREVITY CODES ................................................ II-1
+CHAPTER III: CATEGORY SYNOPSIS .............................................................. III-1
+GENERAL AIR OPERATIONS ..................................................................................... III-1
+AIR-TO-AIR............................................................................................................. III-3
+AIR-TO-SURFACE .................................................................................................... III-6
+CLOSE AIR SUPPORT (CAS) ..................................................................................... III-7
+DISTRIBUTION RESTRICTION: Distribution authorized to the DOD and DOD contractors only
+to protect technical or operational information from automatic dissemination under the
+International Exchange Program or by other means. This determination was made on
+15 June 2005.
+DESTRUCTION NOTICE: Destroy by any method that must prevent disclosure of contents or
+reconstruction of the document.
+* This publication supersedes FM 3-54.10, MCRP 3-25B, NTTP 6-02.1, AFTTP(I) 3-2.5, 5 June 2003.
+
+iv
+
+COMBAT SEARCH AND RESCUE (CSAR/SAR) ............................................................ III-7
+LASERS .................................................................................................................. III-7
+BASIC NVD/IR/ILLUMINATION ................................................................................ III-8
+DATA LINKS ........................................................................................................... III-8
+JSTARS .................................................................................................................. III-9
+MARITIME AIR OPERATIONS................................................................................... III-9
+BASIC SEAD/SIGINT/EW INTEGRATION................................................................... III-9
+SURFACE-TO-AIR...................................................................................................III-10
+SURFACE-TO-SURFACE, ARTILLERY........................................................................III-10
+SURFACE-TO-SURFACE, MARITME ..........................................................................III-11
+NATO-SPECIFIC TERMS..........................................................................................III-11
+GLOSSARY ............................................................................................................. 1
+TABLES
+Table II: Key to Chapter II .......................................................................................II-1
+
+15 June 2005
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+v
+
+PROGRAM PARTICIPANTS
+The following commands and agencies participated in the development of
+this publication:
+
+Army
+Joint and Multinational Division Combined Arms Doctrine Directorate,
+Fort Leavenworth, KS
+United States Army Combined Arms Support Command, Fort Lee, VA
+
+Marine Corps
+Marine Aviation Weapons and Tactics Squadron 1, MCAS Yuma, AZ
+
+Navy
+Naval Strike and Air Warfare Center, NAS Fallon, NV
+Surface Warfare Development Group, Little Creek NAB, VA
+
+Air Force
+Air Force Doctrine Center, Maxwell AFB, AL
+United States Air Force Weapons School, Nellis AFB, NV
+Air Warfare Center, Nellis AFB, NV
+
+vi
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+CHAPTER I
+SUMMARY OF CHANGES
+1. NEW TERMS
+BIRD(S) AWAY
+BUGSY
+CANYON
+CEASE LOADING
+CHECK
+CLIFF
+CONFIDENCE
+CONTACT
+CRISS CROSS
+CURVE
+DECLUTTER
+DIRT
+DOG
+EYEBALL
+FOX 3/2 (X)-SHIP
+2nd FOX 3/2/1
+GO BROADCAST
+GO TACTICAL
+HOMING
+HOOTER
+
+15 June 2005
+
+HUSH
+INTERVENE
+IN THE DARK
+INVESTIGATE
+JAMMER
+JELLO
+KICK
+LASER
+LOST CONTACT
+MANFRED
+MARK
+MATCH SPARKLE
+MELD
+MINIMIZE
+MUD
+MULTIPLE
+NEUTRAL
+PAN
+PEEPSHOW
+PHANTOM
+
+PILLOW
+POINT
+POND
+POST ATTACK
+PUPPIES
+RENEGADE
+SLOPE
+SMACK
+STANDBY
+STRENGTH
+SUPER
+SUPPORTING
+SWEPT
+SWITCH
+TARGET
+TIMBER CHANNEL
+TRACKING
+VERY LOW
+VERY SLOW
+ZOOM
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+I-1
+
+2. DELETED TERMS
+ASLEEP
+AWAKE
+BEARING
+BREVITY
+BROADCAST
+CHANNEL
+CLOWN
+COMPOSITION
+DANCE
+FAST
+GLOWWORM
+
+GOGGLE/DEGOGGLE
+GOGGLES ON/OFF
+GRIDIRON
+GUNS
+HEADBUTT
+HUFFDUFF
+KILL
+KOBOLD
+LOW
+MEDIUM
+MIKEDUFF
+
+OILFIELD
+(system) OKAY
+PINNACLE
+POGO
+RENO
+SCHLEM
+SEARCHER
+SNOOPER
+TACTICAL
+TROUT
+WEEDS
+
+3. CHANGES TO TERM MEANINGS
+ARM
+BIRDS AFFIRM
+BITTERSWEET
+BURN
+CLEARED TO
+ENGAGE
+DECLARE
+ENGAGED
+
+I-2
+
+LEAN
+MARK
+MUD
+POINT
+
+SLOW
+SPARKLE
+SPOT
+STAKE
+
+PUSHING
+RETROGRADE
+SCRAM
+
+STOP
+ZIPLIP
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+CHAPTER II
+MULTI-SERVICE BREVITY CODES
+KEY TO CHAPTER II
+*
+**
+[N]
+
+Meaning may differ with NATO brevity word.
+Not a NATO brevity word.
+NATO brevity word not used by US forces but may
+be encountered in combined operations.
+[term]
+An underlined term indicates a new brevity code,
+an additional meaning, or a deleted meaning to an
+existing term.
+[A/A]
+Brevity code meaning applies to air-to-air (A/A)
+operations.
+[A/S]
+Brevity code meaning applies to air-to-surface (A/S)
+operations.
+[S/A]
+Brevity code meaning applies to surface-to-air (S/A)
+operations.
+[S/S]
+Brevity code meaning applies to surface-to-surface
+(S/S) operations.
+[EW]
+Brevity code meaning applies to electronic warfare
+(EW) operations.
+[AIR-MAR]
+Brevity code meaning applies to maritime air (AIRMAR) operations.
+Table II: Key to Chapter II
+Note: All brevity codes pertain to general air operations unless indicated otherwise.
+NATO meanings are derived from Allied Procedural Publication (APP)-7(B), Joint
+Brevity Words Publication, Edition 2004, Change 1, in addition to both the Maritime
+and Air Operations Working Groups held Jan and Apr 2005 respectively.
+
+15 June 2005
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+II-1
+
+ABORT
+
+Cease action/attack/event/mission.
+
+ACTION
+
+Initiate a briefed attack sequence or maneuver.
+
+(system)ACTIVE
+(location/direction)
+
+*
+
+ADD (system/category)
+
+[EW] Add a specific (system) or (EOB
+category) to search responsibilities.
+
+ALARM
+
+Terminate/terminating EMCON procedures.
+Opposite of SNOOZE.
+
+ALFA CHECK
+
+Request for/confirmation of bearing and range
+from requesting aircraft to described point.
+
+ALLIGATOR
+
+Link-11/ TADIL A.
+
+ANCHOR (location)
+
+1. Orbit about a specific point.
+
+[EW] Referenced emitter is radiating at the
+stated location or along the stated bearing.
+(ELINT derived.)
+
+2. Refueling track flown by tanker.
+ANCHORED (location)
+
+Turning engagement at the specified location.
+
+ANGELS
+
+Height of friendly aircraft in thousands of feet
+from MSL.
+
+ANYFACE
+
+Friendly GCI/AEW/C2l agency when callsign is
+not known.
+
+ARIZONA
+
+No ARM ordnance remaining.
+
+ARM
+
+[A/A] CONTACT(s) within a single group that
+maneuver outside of GROUP criteria inside
+briefed no new picture range.
+
+AS FRAGGED
+
+Unit or element will be performing exactly as
+stated by the ATO.
+
+II-2
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+[A/S] Commence air-to-surface delivery on a
+specific ground target. Direction/bearing from
+which the weapon will be coming may be given.
+
+ATTACK
+
+Aircraft are committed to air-to-surface delivery
+on a specific ground target. Direction/bearing
+from which the weapon will be coming may be
+given.
+
+ATTACKING
+
+ATTACK COMPLETE
+
+[A/S] Mandatory call from the attack aircraft to
+the JTAC/FAC during Type III control indicating
+completion of ordnance release. (See also
+CLEARED TO ENGAGE.)
+
+AUTHENTICATE
+
+A coded challenge or a response to a coded
+challenge.
+
+AUTOCAT
+
+Any communications relay using automatic
+retransmissions.
+
+(weapon) AWAY
+
+Release/launch of specified weapon (e.g.,
+BIRDS AWAY, PIGS AWAY, LONG RIFLE
+AWAY, etc.) Note: Include launch location in
+bullseye format and weapons track direction for
+PIGS and LONG RIFLE.
+
+AZIMUTH
+
+1. [A/A] A picture label describing two
+GROUPs separated laterally. GROUP names
+will be referenced by cardinal directions. (e.g.,
+NORTH GROUP, SOUTH GROUP, or EAST
+GROUP, WEST GROUP).
+2. [S/A] Direction to the threat.
+
+BANDIT
+
+An aircraft identified as an enemy IAW theater
+ID criteria. The term does not necessarily
+imply direction or authority to engage.
+
+BANZAI
+
+[A/A] Execute/executing launch and decide
+tactics.
+
+15 June 2005
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+II-3
+
+BASE (+/- number)
+
+Reference number used to indicate such
+information as headings, altitude, fuels, etc.
+
+BAY
+
+[N] [EW] Carry out deception plan indicated or
+in accordance with previous orders.
+
+BEAD WINDOW
+
+Last transmission potentially disclosed
+unauthorized information.
+
+BEAM (w/cardinal
+direction)
+
+[A/A] CONTACT stabilized within 70 to 110
+degrees of aspect.
+
+BEANSTALK
+
+[N] Datalink users should check equipment for
+spurious tracks.
+
+(system) BENT
+
+System indicated is inoperative. Cancelled by
+SWEET.
+
+BINGO
+
+Fuel state needed for recovery.
+
+BIRD
+
+Friendly SAM.
+
+BIRD(S) AFFIRM
+
+* [S/A] FRIENDLY unit is able and prepared
+to engage. Friendly unit has fire control
+solution on a specified target with SAMs.
+Opposite of BIRD(S) NEGAT.
+
+BIRD(S) AWAY
+(group name)
+
+[S/A] FRIENDLY SAM has been fired at
+designated target
+
+BIRD(S) NEGAT
+
+[S/A] FRIENDLY unit is unable to engage a
+specified target with SAMs. Opposite of
+BIRD(S) AFFIRM.
+
+BITTERSWEET
+
+Notification of potential for blue-on-blue
+(fratricide) or blue-on-neutral situation.
+
+BLIND
+
+No visual contact with FRIENDLY
+aircraft/ground position. Opposite of VISUAL.
+
+BLOTTER
+
+[N] [EW] ECM receiver.
+
+II-4
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+BLOW THROUGH
+
+[A/A] Continue straight ahead at the merge
+and do not become ANCHORED with target(s).
+
+BOGEY
+
+A radar or visual air CONTACT whose identity
+is unknown.
+
+BOGEY DOPE
+
+[A/A] Request for target information as
+requested or for closest GROUP in BRAA (with
+appropriate fill ins).
+
+BOX
+
+[A/A] Picture label with GROUPs in a square
+or offset square. (See CHAMPAGNE and VIC
+for GROUP names.)
+
+BRAA
+
+1. Following information is in a tactical control
+format providing target bearing, range, altitude,
+and aspect, relative to the specified friendly
+aircraft.
+2. Switch to tactical BRAA control format to a
+specific GROUP/CONTACT.
+
+BRACKET (direction)
+
+Maneuver to a position on opposite sides,
+either laterally or vertically from the target.
+
+BREAK (direction)
+
+*
+
+BREAK AWAY
+
+Tanker or receiver call indicating immediate
+vertical and nose/tail separation between
+tanker and receiver is required.
+
+BROKE LOCK
+
+Loss of radar/IR lock-on.
+
+BRUISER
+
+Friendly air launched anti-ship missile.
+
+BUDDY (LASE/GUIDE)
+
+[A/S] Request or informative communications
+to have guidance of a weapon from a source
+other than delivering aircraft.
+
+15 June 2005
+
+Perform an immediate maximum
+performance turn in the indicated direction
+(default is a 180-degree turn).
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+II-5
+
+BUDDY LOCK
+
+[A/A] Radar locked to a known friendly aircraft.
+Normally a response to a SPIKED or BUDDY
+SPIKE calls.
+
+BUDDY SPIKE
+(position /heading/alt)
+
+[A/A] Friendly aircraft radar lock-on indication
+on RWR.
+
+BUGOUT (direction)
+
+Separation from that particular
+engagement/attack/operation with no intent to
+reengage/return.
+
+BUGSY
+
+Unit/entity conducting terrorist or asymmetric
+warfare activities.
+
+BULLDOG
+
+[S/S] Friendly surface/submarine launched
+anti-ship missile.
+
+BULLRING
+
+[AIR-MAR] Maritime aircraft patrol zone.
+
+BULLSEYE
+
+An established reference point from which the
+position of an object can be referenced by
+bearing (Magnetic) and range (NM) from this
+point.
+
+BUMP/BUMP-UP
+
+[A/S] A climb to acquire LOS to the target or
+laser designation.
+
+BURN
+
+[A/S] EO/IR illuminator is being used to
+provide illumination of surface points of
+interest.
+
+BUSTER
+
+Fly at maximum continuous speed (military
+power).
+
+BUTTON
+
+Radio channel setting.
+
+BUZZER
+
+**
+
+CANDYGRAM
+
+[EW] Electronic warfare targeting information
+is available on a briefed secure net.
+
+II-6
+
+Electronic communications jamming. (Note:
+same as NATO term, CHATTER)
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+CANYON
+
+[N] [EW] Use electronic jamming on radar
+frequency indicated or IAW previous orders.
+
+CAP (location)
+
+Establish a CAP at a specified location.
+
+CAPPING (location)
+
+Aircraft established in a CAP.
+
+(target/object)
+CAPTURED
+
+[A/S] Specified surface target/object has been
+acquired and is being tracked with an on-board
+sensor.
+
+CAV-OK
+
+ICAO term meaning no significant clouds below
+5,000 feet, visibility at least 6 miles, no
+precipitation or storms.
+
+CEASE (activity)
+
+Discontinue stated activity; e.g., CEASE
+BUZZER, CEASE LASER, etc.
+
+CEASE ENGAGEMENT
+
+[S/A] A fire control order used to direct air
+defense units to stop tactical action against a
+specified target. Guided missiles already in
+flight will continue to intercept.
+
+CEASE FIRE
+
+[S/A] Discontinue firing/do not open fire.
+Missiles in flight are allowed to continue to
+intercept; continue to track.
+
+CEASE LOADING
+
+[S/S] An order to fire rounds that have already
+been loaded, but no additional rounds may be
+loaded.
+
+CHAMPAGNE
+
+[A/A] A picture label of three distinct GROUPs
+with two in front and one behind. GROUP
+names should be NORTH LEAD GROUP and
+SOUTH LEAD GROUP or WEST LEAD
+GROUP and EAST LEAD GROUP and TRAIL
+GROUP.
+
+15 June 2005
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+II-7
+
+CHARLIE
+
+1. [AIR-MAR] The expected landing time on
+the ship.
+2. [AIR-MAR] Directive to land aircraft on
+ship.
+3. (time in minutes) [AIR-MAR] An advisory
+call modifying/delaying the briefed recovery
+time (e.g., CHARLIE TEN).
+
+CHATTERMARK
+
+Begin using briefed radio procedures to counter
+communications jamming.
+
+CHEAPSHOT
+
+Active missile data link terminated between
+high and medium PRF active.
+
+CHECK (number,
+LEFT/RIGHT)
+
+Turn (number) degrees left or right and
+maintain new heading.
+
+CHECK FIRE/FIRING
+
+**
+
+CHECKPRINT (track #)
+
+1. [AIR-MAR] Request by an Air Defense
+Commander for unit(s) to provide amplifying
+information on a specified track.
+
+[S/S] Immediate pause of planned or
+current indirect fires.
+
+2. [AIR-MAR] Reply/informative to Air
+Defense Commander followed by positive track
+information using format specified in applicable
+OPTASK document.
+
+II-8
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+CHECK CAPTURE
+
+**
+
+CHECK FOCUS
+
+**
+
+CHECK TIDS
+
+Target appears to be no longer tracked by
+sensor.
+
+Sensor image appears to be out of focus.
+
+*
+
+Check datalink display. Note:: Usually used
+to reference a target sorting message from
+another fighter aircraft.
+Height of a friendly aircraft in hundreds of feet
+above surface.
+
+CHERUBS
+CHICKS
+
+FRIENDLY aircraft.
+
+CLAM
+
+[EW] Cease emissions on specified
+equipment.
+
+CLEAN
+
+1. No sensor information on nonfriendly group
+of interest.
+2. No visible battle damage.
+3. Aircraft not carrying external stores.
+
+CLEARED
+CLEARED HOT
+
+Requested action is authorized.
+[A/A] Note: Engaged/support roles not
+established.
+1. [A/S] Type 1 and 2 close air support
+terminal control clearance to release ordnance
+on this pass.
+2. Training range operations: RCO/RSO
+authorizes ordnance release
+
+15 June 2005
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+II-9
+
+CLEARED TO ENGAGE
+
+1. ** [A/S] Type 3 close air support terminal
+control clearance. Attack aircraft flight leaders
+may initiate attacks within the parameters
+imposed by the JTAC. Attack platform will
+provide ATTACK COMPLETE call to JTAC,
+indicating completion of ordnance release.
+2. [A/A] [N] Clearance to fire on designated
+group/target
+
+CLIFF
+
+[N] [EW] Jaming signal.
+
+CLOAK/CLOAKING
+
+Switch/switching from normal/overt external
+lighting to covert NVD only compatible lighting.
+
+CLOSING
+
+Decreasing in separation.
+
+COLD
+
+1. [A/A] Initiate/initiating a turn in the CAP
+away from the anticipated threats.
+2. Defined area is not expected to receive fire
+(enemy or FRIENDLY).
+3. [A/A] Intercept geometry will result in a
+pass or roll out behind the target.
+
+COLOR (system/
+position)
+
+[EW] Request for information on a type
+(system) at stated location; implies a request
+for ambiguity resolution. May be used with
+datalink data message (e.g., color, data).
+
+COMEBACK (direction)
+
+Directive call to reverse course.
+
+COME OFF (direction)
+
+1. [A/A] Maneuver as indicated to either
+regain mutual support or to deconflict flight
+paths. Implies both VISUAL and TALLY.
+2. (A/S) Maneuver or execute a specific
+instruction (e.g., COME OFF DRY).
+
+COMMIT
+
+II-10
+
+(A/A) Intercept the GROUP(s) of interest.
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+CONFETTI
+
+Chaff lane or corridor.
+
+CONFIDENCE
+
+Confidence indication IAW operational
+directives.
+
+CONS/CONNING
+
+Unknown/nonfriendly aircraft producing
+contrails.
+
+CONTACT
+
+1. Sensor contact at the stated position.
+2. Acknowledges sighting of a specified
+reference point.
+3. [A/A] Individual radar return within a
+GROUP or ARM.
+
+CONTACT POD
+
+[A/S] Acknowledges sighting of a specified
+reference point with EO/IR sensor.
+
+CONTAINER
+
+[A/A] Inner GROUP formation with four
+CONTACTs oriented in a square or offset
+square.
+
+CONTINUE
+
+Continue present maneuver, does not imply a
+change in clearance to engage or expend
+ordnance.
+
+CONTINUE DRY
+
+Continue present maneuver, ordnance release
+not authorized. Note: Simulated weapons
+deliveries may be performed.
+
+COVER
+
+*
+
+CRANK (direction)
+
+[A/A] F-Pole maneuver in the direction
+indicated; *implies illuminating target at/near
+radar GIMBAL limits.
+
+CRISS CROSS
+
+[N] [EW] A position or track derived from the
+plotting of DF bearings.
+
+15 June 2005
+
+Assign S/A weapons or establish an A/A
+posture that will allow engagement of a
+specified track or threat if required.
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+II-11
+
+CROSSING
+
+[A/A] Two GROUPs initially separated in
+azimuth decreasing azimuth separation to pass
+each other.
+
+CRUISE
+
+[N] Return to cruise speed (after BUSTER or
+GATE).
+
+CURVE
+
+[N] [EW] Deception signal.
+
+CUTOFF (direction)
+
+[A/A] Requests for, or directive to, intercept
+using cutoff geometry.
+
+CYCLOPS
+
+Any UAV.
+
+DANGER CLOSE
+
+** [A/S] [S/S] FRIENDLY troops are within
+close proximity of the target (determined by the
+weapon/munition delivered/fired). Note:
+Specific DANGER CLOSE distances,
+assumptions, and procedures are contained in
+the JFIRE guide.
+
+DASH (#)
+
+Aircraft position within a flight. Use if specific
+callsign is unknown.
+
+DATA (object, position)
+
+Standby for data link message concerning
+object at stated location.
+
+DEADEYE
+
+Laser designator system inoperative.
+
+DECLARE
+
+Inquiry as to the identification of a specified
+track(s), target(s), or correlated GROUP.
+Responses include FRIENDLY, BOGEY,
+BANDIT, HOSTILE, NEUTRAL, UNABLE, or
+CLEAN. Full positional data must accompany
+declaration responses.
+
+DECLUTTER (level)
+
+Minimize on-screen graphics to prevent an
+object of interest from being obscured. For
+sensors with multi-level de-clutter capability,
+indicate as Level 1, 2, 3, etc.
+
+II-12
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+DEEP
+
+[A/A] Indicates separation between the
+nearest and farthest GROUPs in range in a
+relative formation of three or more groups,
+used to describe a LADDER, VIC,
+CHAMPAGNE, BOX.
+
+DEFENSIVE
+
+* [A/A] Aircraft is under attack, maneuvering
+defensively, and unable to ensure deconfliction
+or mutual support.
+
+DEFENDING (direction)
+
+Aircraft is in a defensive position and
+maneuvering with reference to a surface-to-air
+threat.
+
+DELOUSE
+
+Detect, identify, and engage (if required)
+unknown platform trailing friendly platform.
+
+DELTA(__)(__)
+
+[AIR-MAR] Hold and conserve fuel at altitude
+and position indicated during shipboard
+operations.
+
+DEPLOY
+
+Maneuver to briefed positioning.
+
+DETAILS
+
+Request for modified 9-Line/15-Line (NATO)
+brief.
+
+DIAMONDS (w/position)
+
+A surface IR event location.
+
+DIRT
+
+**
+
+DIRTY
+
+Link is not encrypted.
+
+DIVERT
+
+Proceed to alternate base.
+
+DOG
+
+Air towed decoy
+
+DOLLY
+
+Link-4A/TADIL C.
+
+15 June 2005
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+RWR indication of surface threat in search
+mode. See MUD.
+
+II-13
+
+(system) DOWN
+(location/ direction)
+
+[EW] Referenced emitter has stopped
+radiating at the stated location or along the
+stated bearing. Note: DOWN does not mean
+system destroyed.
+
+DRAG (cardinal
+direction)
+
+[A/A] Contact aspect stabilized at 0-60
+degrees angle from tail or 120-180 degrees
+angle from nose.
+
+DROP/DROPPING
+
+1. Stop/stopping monitoring of specified
+emitter/target/contact and resume/resuming
+search responsibilities.
+2. (TRACK___) Remove the emitter/target
+from tactical picture/track stores.
+3. [EW] Remove a specific system or EOB
+category from search responsibilities.
+
+DUCK
+
+[N] Descend and increase speed.
+
+DUFFER
+
+[EW] DF equipped unit.
+
+ECHELON (sub-cardinal
+direction)
+
+[A/A]) Fill-in to a picture label describing
+GROUPs aligned behind and to the side of the
+closest GROUP.
+
+ECHO
+
+Positive System M/Mode X (or comparable
+system) reply.
+
+EMPTY
+
+[EW] No emitters of interest detected.
+
+ENGAGE
+
+A fire control order used to direct or authorize
+units and/or weapon systems to fire on a
+designated target.
+
+ENGAGED
+
+Inter-flight call from a fighter maneuvering in
+the visual arena to establish deconfliction
+responsibilities.
+
+II-14
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+ESTIMATE
+
+Estimate of the size, range, height, or other
+parameter of a specified contact; implies
+degradation.
+
+EXTEND/EXTENDING
+(direction)
+
+[A/A] Short-term maneuver to gain energy,
+distance, or separation, normally with the intent
+of re-engaging.
+
+EYEBALL
+
+1. [A/A] Fighter with primary visual
+identification responsibility.
+2. [A/A] EO/IR acquisition of an aircraft.
+Normally followed by number of aircraft
+observed (if more than one).
+
+EYEBALL NARROW
+
+**
+
+FADED
+
+Radar contact is lost on unknown/nonfriendly
+contact.
+
+FAKER
+
+[N] A FRIENDLY track acting as a HOSTILE
+for exercise purposes.
+
+FAN __ TACK __
+
+[N] [EW] Left and right hand edges of jammed
+sector are___and___.
+
+FATHER
+
+*
+
+FEELER
+
+[N] [EW] Shipborne fire control radar.
+
+FEET WET/DRY
+
+Flying over water/land.
+
+FENCE (IN/OUT)
+
+Set cockpit switches as appropriate before
+entering/exiting the combat area.
+
+FERRET
+
+[N] [EW] Airborne electronic reconnaissance
+activity or aircraft.
+
+15 June 2005
+
+[A/A] EO/IR contacts are too close for
+resolution via radar.
+
+Surface TACAN station.
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+II-15
+
+FLANK (direction)
+
+[A/A] CONTACT aspect stabilized at 120 to
+150 degrees angle from tail or 30 to 60 degrees
+angle from nose.
+
+FLARE(S)
+
+Deploy/deploying flares.
+
+FLASH (system)
+
+Temporarily activate specified system for
+identification purposes (IFF/afterburner/
+flare/chaff/etc.).
+
+FLASHLIGHT
+
+Directive term for helicopter to turn on IR
+floodlight (pointed at ground to aid visual
+acquisition by escort aircraft).
+
+FLAVOR
+
+Visually identified nationality of a contact.
+
+FLOAT(ING)
+
+Expand/(expanding) the formation laterally
+within visual limits to maintain radar contact or
+prepare for a defensive response.
+
+FLOW (direction)
+
+Fly stated heading.
+
+FOX (number)
+
+[A/A] Simulated/actual launch of A/A
+weapons.
+ONE—Semiactive radar-guided missile.
+TWO—IR-guided missile.
+THREE—Active radar-guided missile.
+
+FOX MIKE
+
+VHF/FM radio.
+
+FOX THREE/TWO (X)
+SHIP
+
+[A/A] Valid missile shot against (x) separate
+targets (assumes 1 missile per target).
+
+2nd FOX
+THREE/TWO/ONE
+
+[A/A] Simulated or actual launch of multiple
+missiles on the same target.
+
+FREEZE BURN
+
+Freeze the EO/IR illuminator position in the
+present location.
+
+II-16
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+FRIENDLY
+
+A positively identified friendly aircraft, ship, or
+ground position.
+
+FUEL STATE (time)
+
+[AIR-MAR] A helicopter's fuel quantity,
+expressed in hours and minutes before having
+to make a controlled emergency landing.
+
+FURBALL
+
+[A/A] Nonfriendly aircraft and FRIENDLY
+aircraft are in close proximity to each other.
+Can be response to a DECLARE request.
+
+GADABOUT (#)
+
+[N] Upper limit of height sanctuary for fighters
+in the MEZ. (“GADABOUT 25” means the
+upper limit of the height sanctuary is 25,000
+feet; “GADABOUT 16 to 24” means the height
+sanctuary is between 16,000 to 24,000 feet).
+
+GADGET
+
+Radar or emitter equipment.
+
+GATE
+
+Fly as quickly as possible, using afterburner/max power.
+
+GENIE
+
+[EW] Emitter is employing electronic protection
+measures.
+
+GIMBAL
+
+Radar target is approaching azimuth or
+elevation tracking limits.
+
+GINGERBREAD
+
+Voice imitative deception is suspected on this
+net.
+
+GO ACTIVE
+
+Go to briefed frequency agile net.
+
+GO BROADCAST
+
+Switch to broadcast control format.
+
+GO CLEAR
+
+Use unencrypted voice communications.
+
+GO SECURE
+
+Activate encrypted voice communications.
+
+GO TACTICAL
+
+[A/A] Switch to tactical control.
+
+GOODWILL
+
+Boundary of an active friendly MEZ.
+
+15 June 2005
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+II-17
+
+GOPHER
+
+A CONTACT that has not conformed to safe
+passage routing, airspeed, or altitude
+procedures. Will only be used when safe
+passage or minimum risk routing procedures
+are part of an ID matrix.
+
+GORILLA
+
+[A/A] Large force of indeterminate numbers
+and formation of un known/non-friendly aircraft.
+
+GRANDSLAM
+
+All HOSTILE aircraft of a designated track (or
+against which a mission was tasked) are shot
+down.
+
+GREEN (direction)
+
+Direction of no known enemy threats.
+
+GREYHOUND
+
+Friendly ground attack cruise missile (e.g.,
+TLAM).
+
+GRIDIRON
+
+[N] [EW] Jamming signal appears on my PPI
+scope or jamming signal prevents
+determination of range and bearing_____% of
+time.
+
+GROUP
+
+* [A/A] Any number of air contacts within 3
+NM in azimuth and range of each other. Note:
+NATO definition includes an altitude
+discrimination.
+
+HANDSHAKE
+
+1. Link 16 Air Control NPG initiation between
+air control unit and controlled aircraft.
+2. ** Full motion video signal and data
+operative to ROVER.
+
+HARD (LEFT, RIGHT,
+direction)
+
+* High-G, energy sustaining turn in the
+indicated direction (default is a 180 degree
+turn).
+
+HEADS UP
+
+Alert of an activity of interest.
+
+II-18
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+HEAVY
+
+A GROUP known to contain three or more
+individual entities.
+
+HIGH
+
+CONTACT is greater than 40,000 ft MSL.
+
+HIT(S)
+
+1. Momentary radar return(s).
+2. (altitude) [A/A] Indicates approximate
+target altitude (e.g., GROUP BULLSEYE
+360/10, HITS 15 thousand).
+3. [A/S] Weapons impact within lethal
+distance.
+
+HOLD DOWN
+
+Key transmitter for DF steer.
+
+HOLD FIRE
+
+[S/A] An emergency fire control order to stop
+firing on a designated target, to include
+destruction of any missiles in- flight.
+
+HOLDING HANDS
+
+Aircraft in visual formation.
+
+HOLLOW
+
+1. Any data link message not received.
+2. ** Lost full motion video signal and/or data
+to ROVER.
+
+(expect) HOLLOW
+
+**
+
+HOME PLATE
+
+Home airfield or ship.
+
+HOMING
+
+[N] Friends returning for recovery.
+
+HOOK
+
+1. (direction) Perform an in-place 180-degree
+turn.
+
+A condition will likely exist that limits
+ROVER reception (maneuvers, terrain, etc.).
+
+2. ** (descriptor) Datalink directive call to
+cue sensors to described A/S point (point of
+interest, SAM, markpoint, TN, etc.)
+HOOTER
+15 June 2005
+
+[EW] FRIENDLY Jammer.
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+II-19
+
+HOSTILE
+
+**
+
+A contact identified as enemy upon which
+clearance to fire is authorized in accordance
+with theater rules of engagement.
+WARNING: The above use of HOSTILE is
+used as a brevity term for air-to-air, and air-tosurface engagements and should not be
+confused with the same term in TADIL and
+ROE.
+
+HOT
+
+1. Initiate/initiating a turn in the CAP toward
+the anticipated threats.
+2. Defined area is expected to receive fire
+(enemy or FRIENDLY).
+3. [A/S] [S/A] Ordnance employment
+intended or completed.
+4. CONTACT aspect stabilized at 160-180
+degrees angle from tail or 0 – 20 degrees angle
+from nose.
+5. Intercept geometry will result in passing in
+front of the target.
+
+HOTDOG (color)
+
+**
+
+Friendly aircraft is approaching or is at a
+specified standoff distance from the sovereign
+airspace of a nation (as defined by national
+boundaries or territorial sea and airspace).
+(Color may indicate additional standoff
+distance.) Follow briefed procedures.
+
+*
+
+(Note: NATO term is BRASS MONKEY.)
+
+HOTEL FOX
+
+HF radio.
+
+HOUNDOG
+
+[N] [A/A] Call made by free fighter indicating
+that he is in a position to employ weapons.
+
+II-20
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+HUSH
+
+[EW] Execute emission control IAW emission
+control policy.
+
+HUSKY
+
+[A/A] Active radar missile is at HPRF active
+range.
+
+ID
+
+1. Identify the target./track.
+2. (type) Identification is accomplished,
+followed by type.
+
+IDLE
+
+[A/S] Surface vehicles are stationary.
+
+IN (direction)
+
+1. [A/A] Turning toward a known threat.
+Opposite of OUT.
+2. [A/S] Entering terminal phase of an air-toground attack. Opposite of OFF. Note:
+NATO rules allow “IN HOT” call.
+
+INDIA
+
+Mode IV IFF.
+
+IN PLACE (direction)
+
+Perform indicated maneuver simultaneously.
+
+INTERROGATE
+
+Interrogate the designated contact of the IFF
+mode indicated.
+
+INTERVENE
+
+[A/A] Immediately divert a track of interest
+clear of a restricted or prohibited area.
+
+IN THE DARK
+
+Contact is in known radar blind zone.
+
+INTRUDER
+
+An individual, unit or weapon system in or near
+an operational or exercise area, which
+represents the threat of intelligence gathering
+or disruptive activity.
+
+INVESTIGATE
+
+Verify specified element(s) of ROE, PID, CDE,
+and/or coordination of forces on the referenced
+target/track.
+
+JACKAL
+
+Surveillance NPG of Link 16/TADIL J.
+
+15 June 2005
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+II-21
+
+JAMMER
+
+[EW] Nonfriendly jammer.
+
+JELLO
+
+Inverse synthetic aperture radar
+
+JINK
+
+Perform an unpredictable maneuver to negate
+a tracking solution.
+
+JOKER
+
+Fuel state above BINGO at which
+separation/bugout/event termination should
+begin.
+
+JUDY
+
+[A/A] Aircrew has radar or visual contact on
+the correct target, has taken control of the
+intercept and only requires situation awareness
+information; controller will minimize radio
+transmissions.
+
+KICK_(APPROPRIATE
+FREQ)
+
+Change radio or datalink to a specified net or
+frequency.
+
+KICK (Degrees L/R or
+Heading) Add
+
+Offset element away from threat in specified
+direction using maximum performance profile.
+
+KNOCK IT OFF
+
+Cease all air combat maneuvers/attacks/
+activities/exercises (training use only).
+
+LADDER
+
+[A/A] Picture label with three or more groups
+on the same azimuth but separated by range.
+Group names should be LEAD GROUP,
+MIDDLE GROUP, TRAIL GROUP.
+
+LAME DUCK
+
+An aircraft in a minor state of emergency.
+
+LASER
+
+Platform is capable to laser target designate
+
+LASER ON
+
+Start/acknowledge laser designation.
+
+LASING
+
+The speaker is firing the laser.
+
+LAST
+
+C2 term that provides the last contact altitude
+from a high fidelity source (fighter radar, etc.).
+
+II-22
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+LEAD-TRAIL
+
+[A/A] Inner GROUP formation of two contacts
+separated in range.
+
+LEAKER(S)
+
+[A/A] Airborne threat has passed through a
+defensive layer. Call should include amplifying
+information.
+
+LEAN (direction)
+
+Offset package/element in specified direction
+maintaining briefed altitude, airspeed, and
+formation.
+
+LEVEL
+
+[A/A] Contact is co-altitude (inter-flight call).
+
+LIGHTS ON/OFF
+
+Turn on/off all exterior lights.
+
+LIGHTBULB
+
+Turn all position lights to bright.
+
+LINE ABREAST
+
+Inner GROUP formation of two or more
+contacts separated in azimuth.
+
+LINER
+
+[N] Fly at speed giving maximum cruising
+range.
+
+LOCKED
+
+1. (w/GROUP label) Radar lock-on; SORT is
+not assumed.
+2. (w/position) Radar lock-on; correct
+targeting is not assumed.
+
+LONG RIFLE
+
+[A/S] FRIENDLY, long range A/S missile
+launch (e.g., AGM-130, SLAM- ER). See
+(weapon) AWAY.
+
+LOOKING
+
+Aircrew does not have the ground object,
+reference point, or target in sight (opposite of
+CONTACT).
+
+LOST CONTACT
+
+1. Previous contact lost, provide target
+information.
+2. Sensor information on a friendly aircraft is
+lost.
+
+15 June 2005
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+II-23
+
+LOWDOWN
+
+**
+
+A request to provide tactical ground
+information pertinent to the mission in a digital
+bullseye format.
+
+MADDOG
+
+[A/A] Visual AIM-120 launch.
+
+MAGNUM (system/
+location)
+
+[A/S] Launch of friendly antiradiation missile.
+
+MANEUVER (AZIMUTH
+/RANGE/ ALTITUDE)
+
+[A/A] Specified GROUP is maneuvering in
+azimuth, range, and/or altitude.
+
+MANFRED
+
+[EW] I am unable to operate (radar or emitter
+indicated) for reasons of national security.
+
+MAPPING
+
+[A/S] Multifunction radar in an A/G mode.
+
+MARK
+
+1. Record the location of a point/object of
+interest.
+2. [A/S] [S/S] Spotting round, normally WP or
+illumination on the deck to indicate targets to
+aircraft, ground troops, or fire support.
+
+MARKING
+
+Friendly aircraft is leaving contrails.
+
+MARKPOINT
+
+Datalink non-designated geographic point of
+interest.
+
+MARSHAL(ING)
+
+Establish/(established) at a specific point.
+
+MATCH SPARKLE
+
+Overlay IR point.
+
+MELD
+
+**
+
+MERGE/(MERGED)
+
+1. [A/A] FRIENDLIES and targets have
+arrived in the visual arena.
+
+[A/A] Bias radar coverage IAW briefed
+parameters.
+
+2. Radar returns have come together.
+MICKEY
+II-24
+
+HAVE QUICK time-of-day signal.
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+MIDNIGHT
+
+C2 radar functions are unavailable due to
+degradation. Advisory information is still
+available. Opposite of SUNRISE.
+
+MILLER TIME
+
+[A/S] Completion of air-to-ground ordnance
+delivery. Generally used by the last striker in
+conjunction with a pre-coordinated egress plan.
+
+MINIMIZE
+
+The radio frequency is becoming saturated,
+degraded or jammed and briefer transmissions
+must follow.
+
+MONITOR(ING)
+(GROUP/object)
+
+1. Maintain/(maintaining) sensor awareness on
+specified GROUP/object. Implies that tactically
+significant changes will be communicated.
+2. * [AIR-MAR] Maintain contact/targeting
+information on a maritime surface contact.
+
+MOTHER
+
+[AIR-MAR] Parent ship.
+
+MOVE BURN (bearing)
+
+[A/S] Move EO/IR illumination in specified
+direction. Note: Do not use LEFT/RIGHT for
+moving a BURN.
+
+MOVER(S)
+
+Unidentified surface vehicles(s) in motion.
+
+MUD (type w/direction/
+range if able)
+
+1. RWR ground threat displayed with no
+launch indication.
+2. RWR indication of surface threat in track
+mode. See DIRT and SINGER.
+
+MULTIPLE
+
+[N] [EW] There are a number of stations on
+the same frequency.
+
+MUSIC
+
+Radar electronic deceptive jamming.
+
+NAILS (direction)
+
+1. RWR indication of AI radar in search.
+2.
+
+15 June 2005
+
+* [A/S]
+
+2.75-inch flechette rockets.
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+II-25
+
+NAKED
+
+No RWR indications.
+
+NEAR-FAR
+
+[A/A] Fighter term depicting a radar-apparent
+description of two or more contacts within a
+GROUP separated in range.
+
+NEGATIVE CONTACT
+
+No sensor information is available on a friendly
+aircraft.
+
+NEGATIVE LASER
+
+[A/S] Aircraft has not acquired Laser energy.
+
+NEW PICTURE
+
+[A/A] Used by controller or aircrew when
+tactical picture has changed. Supersedes all
+previous calls and re-establishes picture for all
+players.
+
+NEUTRAL
+
+** A positively identified aircraft, ship, or
+ground position whose characteristics,
+behavior, origin or nationality indicate that it is
+neither supporting nor opposing FRIENDLY
+forces.
+
+NO FACTOR
+
+Not a threat.
+
+NO JOY
+
+Aircrew does not have visual contact with the
+target/bandit/landmark. Opposite of TALLY.
+
+NOTCH/(NOTCHING)
+(direction)
+
+[A/A] Aircraft is in a defensive position.
+Maneuver(ing) with reference to an air-to-air
+threat.
+
+OCCUPIED
+
+Ground equipment present at tasked target
+location. Opposite of VACANT.
+
+OFF (direction)
+
+Attack is terminated and maneuvering to the
+indicated direction.
+
+OFFSET (direction)
+
+Maneuver in a specified direction with
+reference to the target.
+
+ON STATION
+
+Unit/aircraft has reached assigned station.
+
+II-26
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+OPENING
+
+Increasing in separation.
+
+ORBIT(ING)
+
+Hold/(holding) on current or indicated position.
+
+OUT (direction)
+
+Turn/(turning) to a cold aspect relative to a
+known threat.
+
+OUTLAW
+
+CONTACT has met point of origin criteria for
+ROE.
+
+PACKAGE
+
+Geographically isolated collection of GROUPs.
+
+PACMAN
+
+[N] Fighters have found the end of the threat
+formation and are converting; given in range
+and bearing from the BULLSEYE (e.g., “BLUE
+4 is PACMAN 290/5”).
+
+PADLOCKED
+
+Aircrew cannot take eyes off an aircraft, ground
+target, or surface position without risk of losing
+TALLY/VISUAL.
+
+PAINT(S)
+
+An interrogated group/radar contact that is
+responding with any of the specified IFF/SIF
+modes and correct codes established for the ID
+criteria.
+
+PAN
+(LEFT/RIGHT/UP/DOWN)
+
+Move the sensor in the indicated direction
+relative to the current image.
+
+PANCAKE
+
+[N] Land or I wish to land (reason may be
+specified, e.g., PANCAKE AMMO, PANCAKE
+FUEL).
+
+PARROT
+
+IFF/SIF transponder.
+
+PASSING
+
+[A/A] Two GROUPs initially separated in
+range, decrease range separation and are
+passing each other.
+
+PEDRO
+
+[N] Rescue helicopter.
+
+15 June 2005
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+II-27
+
+PEEPSHOW
+
+**
+
+PHANTOM
+
+[N] [EW] A position track derived from the
+triangulation of Spikes originating from
+HOSTILE jamming.
+
+PICTURE
+
+* [A/A] A request to provide air information
+pertinent to the mission in a digital bullseye
+format unless briefed otherwise
+
+PIG(S)
+
+[A/S] Friendly glide weapon(s) (e.g., JSOW).
+See (weapon) AWAY.
+
+PIGEONS
+
+Magnetic bearing and range to HOMEPLATE.
+
+PILLOW
+
+[EW] Pulse repetition interval.
+
+PINCE
+
+[A/A] Threat maneuvering for a bracket attack.
+
+PINNACLE
+
+[N] [EW] An emission believed to originate
+from a platform assumed to be FRIENDLY.
+
+PITBULL
+
+[A/A] AIM-120 is at MPRF active range.
+
+PITCH/ PITCHBACK
+LEFT/RIGHT
+
+Execute a nose-high heading reversal.
+
+PLAYMATE
+
+Cooperating aircraft.
+
+PLAYTIME
+
+Amount of time aircraft can remain on station,
+given in hours plus minutes (e.g., ONE PLUS
+THIRTY equals one hour and thirty minutes).
+
+(freq) POGO (freq)
+
+Switch to communication channel number
+preceding POGO. If unable to establish
+communications, switch to channel number
+following POGO. If no channel number follows
+POGO, return to this channel.
+
+II-28
+
+Perform non-traditional ISR on the
+referenced target/track.
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+POND
+
+[N] [EW] Carry out jamming plan indicated or
+in accordance with previous orders.
+
+POINT
+
+Datalink sensor point/track of interest.
+
+**
+
+DROP POINT—Data link target sorting
+message is no longer needed/desired.
+
+** HOLD POINT—Maintain PDT on the
+current track to maintain the datalink target
+sorting message.
+** TARGET POINT—Target the referenced
+datalink target sorting message (Example:
+“IRON FOUR, TARGET IRON ONE’S POINT”).
+POLAR BEAR (direction)
+
+[N] FRIENDLY aircraft has
+VISUAL/CONTACT on the FRIENDLY
+package and is joining.
+
+POP
+
+1. [A/S] Starting climb for A/S attack.
+2. Max performance climb out of low-altitude
+structure.
+
+POPCORN
+
+CSAR aircraft departing the LZ. Usually
+followed by number of recovered personnel,
+(e.g., "STING 1, POPCORN PLUS 2")
+
+POPEYE
+
+Flying in clouds or area of reduced visibility.
+
+POP-UP
+
+1. [A/A] GROUP that has suddenly appeared
+inside of briefed range.
+2. * [S/A] Criteria used as a self-defense
+method, within the ROE, to protect friendly air
+defense elements from HOSTILE aircraft.
+
+15 June 2005
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+II-29
+
+POSIT
+
+Request for friendly position; response in terms
+of a geographic landmark or from a common
+reference point.
+
+POST ATTACK
+(direction/directive)
+
+[N] Desired direction/directives after
+completion of intercept/engagement.
+
+POST HOLE
+
+Rapid descending spiral.
+
+PRESS
+
+Requested action is approved and mutual
+support will be maintained.
+
+PRINT (type)
+
+Active NCTR reply.
+
+PULSE
+
+Illuminate/(illuminating) an enemy position with
+flashing IR energy.
+
+PUMP
+
+[A/A] A briefed maneuver to minimize closure
+on the threat or geographical boundary with the
+intent to re-engage. Used to initiate a Grinder
+tactic.
+
+PUPPIES
+
+[N] [EW] Emission control plan (EMCON plan)
+is modified as follows____.
+
+PURE
+
+[A/A] Pure pursuit is being used or directive to
+go pure pursuit.
+
+PUSH (channel)
+
+Switch to designated frequency; no
+acknowledgment required.
+
+PUSHING
+
+1. Departing designated point.
+2. (GROUP/descriptions) GROUP(S) have
+turned cold and will continue to be monitored.
+
+QUAIL
+
+Enemy air-/surface-launched cruise missile.
+
+RACKET
+
+[EW] Intercepted electronic emission that has
+been assigned to a number of the trackblock.
+
+II-30
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+RANGE
+
+[A/A] A picture label describing two GROUPs
+separated in distance along the same line of
+bearing. GROUPS names will be LEAD
+GROUP/TRAIL GROUP.
+
+RAYGUN (position/
+heading/ altitude)
+
+[A/A] Radar lock-on to unknown aircraft. A
+request for a BUDDY SPIKE reply from friendly
+aircraft meeting these parameters.
+
+RED LIGHT
+
+Time when SAR aircraft is no longer SAR
+capable.
+
+REFERENCE (direction)
+
+Assume stated heading.
+
+RENEGADE
+
+A civil platform that is assessed as operating in
+such a manner as to raise suspicion that it
+might be used as a weapon to perpetrate a
+terrorist attack.
+
+RENT
+
+[EW] Report of characteristics of an
+intercepted signal.
+
+REPEAT
+
+1. ** [S/S] (during adjustment) Fire again
+using the same method of fire.
+2. ** [S/S] (during fire for effect) Fire the
+same number of rounds using the same
+method of fire.
+
+REPORTED (information)
+
+Information provided is derived from an offboard source.
+
+RESET
+
+Proceed to a pre-briefed position or area of
+operations.
+
+RESTAKE
+
+Drive a new STAKE at the target centroid
+reported with direction of travel and elevation.
+Initiated by aircrew.
+
+RESUME
+
+Resume last formation/route/mission ordered.
+
+15 June 2005
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+II-31
+
+RETROGRADE/
+RETROGRADING
+
+Withdraw/withdrawing, while executing
+defensive procedures in response to a threat.
+
+RIDER
+
+A BOGEY that is complying with ACO/safe
+passage procedures.
+
+RIFLE
+
+[A/S] Friendly air-to-surface missile launch.
+
+RIPPLE
+
+[A/S] Two or more munitions released or fired
+in close succession.
+
+ROBBER
+
+*
+
+ROGER
+
+Radio transmission received; does not indicate
+compliance or reaction.
+
+ROLEX (+/ - time)
+
+Time line adjustment in minutes always
+referenced from original preplanned mission
+execution time. “Plus” means later; “minus”
+means earlier.
+
+ROPE
+
+Circling an IR pointer around an aircraft to help
+the aircraft identify the friendly ground position.
+
+ROTATOR
+
+MTI returns that signifies a high probability of a
+rotating antenna.
+
+ROVER
+
+Platform is video downlink capable.
+
+RUMBA
+
+1. * Radar has detected jamming/mutual
+interference but has not resolved the type.
+
+A surface vessel that is identified as an
+enemy in accordance with theater ID ctireria.
+The term does not necessarily imply clearance
+to engage.
+
+2. [N] Own ship maneuvering for ranging.
+SADDLED
+
+II-32
+
+Wingman or element has returned to briefed
+formation position.
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+SAM (direction)
+
+Visual acquisition of a SAM in flight or a SAM
+launch, should include position.
+
+SAME
+
+Aircrew has the identical information as was
+just stated.
+
+SANDWICHED
+
+Aircraft or element is between opposing aircraft
+or elements.
+
+SAUNTER
+
+Fly at best endurance.
+
+SCAN
+
+[N] Search sector indicated and report any
+contacts.
+
+SCRAM (direction)
+
+1. Friendly asset is in immediate danger.
+Withdraw clear in the direction indicated for
+survival. No further mission support from the
+friendly asset is expected.
+2. Cease the intercept and take immediate
+evasive action. Implies that the target aircraft is
+being engaged by SAMs or other air defense
+fighters.
+
+SCRAMBLE
+
+Takeoff as quickly as possible.
+
+SCRUB
+
+MTI return that signifies a low slow airborne
+target
+
+SCUD
+
+Any threat TBM.
+
+SEPARATE/
+SEPARATING
+
+[A/A] Leaving a specific engagement; may or
+may not reenter.
+
+SEPARATION
+
+Request for separation between two GROUPS.
+Response will include the follow-on GROUP's
+separation, altitude, and fill-ins.
+
+15 June 2005
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+II-33
+
+SET ___
+
+1. Set (or have set) a particular speed. May
+be in knots/indicated or in Mach.
+2. ** No longer slewing sensor and awaiting
+further updates.
+
+SHACKLE
+
+One weave, a single crossing of flight paths;
+maneuver to adjust or regain formation
+parameters.
+
+SHADOW
+
+Follow indicated target.
+
+SHIFT (direction)
+
+[A/S] Shift laser/IR/radar/device energy.
+Note: Can be used to shift from the offset
+position onto the target. Also used during
+multi-aircraft attack to shift laser energy to the
+next target.
+
+SHOOTER
+
+Aircraft/unit designated to employ ordnance.
+
+SHOPPING
+
+An aircraft request to FAC/JTAC/C2 platform
+for a target.
+
+SHOT
+
+**
+
+SHOTGUN
+
+Pre-briefed weapons state.
+
+(system) SICK
+
+**
+
+SIDE-SIDE
+
+[A/A] Fighter term depicting a radar-apparent
+description of two or more CONTACTs within a
+GROUP separated in azimuth.
+
+II-34
+
+[S/S] Round(s) has(ve) been fired.
+
+System indicated is degraded/partially
+operative. Cancelled by SWEET
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+(system) SILENT
+
+1. (time) System will be unavailable for time
+indicated.
+2. Datalink is, or should be placed, in receive
+only.
+3. [N] [EW] Broadcast station is not
+transmitting. May also be used as an order and
+must be followed by a frequency or station
+designator. If possible it should be followed by
+an estimated time of return to the air.
+
+SINGER (type/direction)
+
+RWR indication of SAM launch.
+
+SINGLE
+
+One GROUP, CONTACT, etc.
+
+SKATE
+
+[A/A] Execute(ing) launch-and-leave tactics.
+
+SKINNY
+
+Current survivor coordinates.
+
+SKIP IT
+
+Veto of fighter COMMIT, usually followed with
+further directions.
+
+SKOSH
+
+[A/A] Aircraft is out of/or unable to employ
+active radar missiles.
+
+SKUNK
+
+A maritime surface contact that has not yet
+been identified.
+
+SLAPSHOT
+(type/bearing)
+
+[A/S] Immediately employ a best available
+HARM against a specified threat at the
+specified bearing.
+
+SLICE/ SLICEBACK
+(LEFT/RIGHT)
+
+Perform a high-G descending turn in the stated
+direction, usually 180-degree turn.
+
+SLIDE
+
+Continue/(continuing) present mission while
+flowing from station in response to perceived
+threat, implies intent to RESET.
+
+SLIP/SLIPPING
+
+[A/S] Time delay to individual flight/element
+event.
+
+15 June 2005
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+II-35
+
+SLOPE
+
+[EW] Pulse repetition frequency.
+
+SLOW
+
+Contact with ground speed of 150-400 knots.
+
+SMACK
+
+[A/S] [S/S] Clearance to employ
+ordnance/fires on surface target coordinates.
+ROE, PID, CDE, coordination of forces, and
+Commander’s Guidance requirements on the
+referenced target/track have been satisfied and
+coordinate accuracy is sufficient for GPS
+weapon employment.
+
+SMASH (ON/OFF)
+
+Turn on/off anti-collision lights.
+
+SMOKE
+
+[A/S] Smoke marker used to mark a position.
+
+SNAKE
+
+[A/S] Oscillate an IR pointer about a target.
+
+SNAP
+
+1. [A/A] Fighter request for immediate BRAA
+call (with appropriate fill-ins) to the group
+described. Indicates fighter intent to
+intercept/join.
+2. (heading) Urgent directive call to turn to a
+heading.
+
+SNAPLOCK (BRAA)
+
+[A/A] Fighter has obtained a radar contact
+inside briefed range, aspect, or radar mode.
+
+SNEAKER
+
+[EW] An intelligence-gathering vessel.
+
+SNIFF (type)
+
+**
+
+SNIPER (type, location
+[range, bearing])
+
+[A/S]) Aircraft to employ a range-known
+HARM against a specified threat at the
+specified location.
+
+SNOOZE
+
+Initiate/initiating EMCON procedures. Opposite
+of ALARM.
+
+II-36
+
+[EW] Passive sensor indication of a radar
+emitter.
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+SORT
+
+Assignment of responsibility within a GROUP;
+criteria can be met visually, electronically
+(radar), or both.
+
+SORTED
+
+Sort responsibility within a GROUP has been
+met.
+
+SOUR
+
+(Opposite of SWEET.)
+1. (mode/type) Invalid/no response to an
+administrative IFF/SIF check.
+2. (link name) (e.g., " TIMBER SOUR ")
+Potential problems with net entry; initiates premission link troubleshooting.
+3. Equipment indicated is not operating
+efficiently
+
+SPADES
+
+An interrogated group/radar contact that lacks
+all of the ATO (or equivalent) IFF/SIF modes
+and codes required for the ID criteria.
+
+SPARKLE
+
+1. [A/S] Mark/(marking) target by IR pointer.
+2. [A/S] Target marking by gunship/ FAC-A
+using incendiary rounds.
+3. Platform is capable to IR point.
+
+SPIKE/SPIKED
+(direction)
+
+RWR indication of an AI threat in track or
+launch.
+
+SPIN
+
+Execute/(executing) a timing/spacing
+maneuver.
+
+SPITTER (direction)
+
+[A/A] An aircraft that has departed from the
+engagement or is departing the engaged
+fighter’s targeting responsibility.
+
+15 June 2005
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+II-37
+
+SPLASH(ED)
+
+1. [A/A] Target destroyed.
+2. [A/S] Weapons impact.
+3. * [S/S] Informative call to observer or
+spotter 5 seconds prior to estimated time of
+impact.
+
+SPLIT
+
+Flight member is leaving formation to pursue a
+separate attack; VISUAL may not be
+maintained.
+
+SPOOFER
+
+[EW] An entity employing electronic or tactical
+deception measures.
+
+SPOOFING
+
+Voice deception is being employed.
+
+SPOT
+
+1. [A/S] Acquisition of laser designation.
+2. Platform is LST capable.
+
+SQUAWK (mode/code)
+
+Operate IFF/SIF as indicated or IFF/SIF is
+operating as indicated.
+
+SQUAWKING (mode #)
+
+BOGEY is responding with an IFF/SIF mode or
+code other than that prescribed by the
+ATO/identification criteria.
+
+STACK
+
+[A/A] Two or more CONTACTs within GROUP
+criteria with an altitude separation in relation to
+each other.
+
+STAKE
+
+1. Reference point for A/S targeting
+operations.
+2. A full motion video system mark has been
+set and is used as a frame of reference.
+
+II-38
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+STANDBY
+
+1. More information is coming
+2. [A/A] (GROUP) Eyeball fighter is preparing
+to call VID of target aircraft. No radio
+transmissions should be made until either ID is
+made or the eyeball fighter calls “unable VID.”
+
+STARE (w/ laser code
+and reference point)
+
+Cue the laser spot search/tracker function on
+the specified laser code in relation to the
+specified reference point. Reference point may
+include the following: INS steerpoint, GEOREF,
+bearing and range or datalink point.
+
+STATUS
+
+1. Request for an individual’s tactical situation.
+2. (GROUP) Request for a full positional
+update.on a specified group (default is digital
+bullseye) .
+
+STEADY
+
+[A/S] Stop oscillation of IR pointer.
+
+STERN
+
+[A/A] Requests for, or directive to, intercept
+using STERN geometry.
+
+STINGER
+
+1. [A/A] Three-ship inner GROUP formation
+with two lead CONTACTs line abreast and the
+SINGLE in trail.
+2.
+
+* [S/A]
+
+An IR MANPAD.
+
+STOP
+
+[A/S] Stop IR illumination of a target.
+
+STOP BURN
+
+[A/S] Directive call to stop IR/EO illumination
+of a target.
+
+STRANGER
+
+Unidentified traffic that is not a participant with
+the action in progress.
+
+STRANGLE (___)
+
+Turn off equipment indicated.
+
+15 June 2005
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+II-39
+
+STRENGTH
+
+[A/A] Numerical strength of a
+TRACK/GROUP.
+
+STRIPPED
+
+Aircraft is out of prebriefed formation.
+
+STROBE(S) (bearing)
+
+Radar indication(s) of noise jamming.
+
+SUNRISE
+
+C2 radar functions are available. Opposite of
+MIDNIGHT.
+
+SUNSHINE
+
+[A/S] Illuminating target with artificial
+illumination.
+
+SUPER
+
+Speed 600kts / 1.0M or greater.
+
+SUPPORTING
+
+Speaking unit or element is assuming a
+supporting role, is in a position to influence the
+outcome, and assumes deconfliction
+responsibility.
+
+SWEET
+
+(Opposite of SOUR; cancels SICK, BENT.)
+1. (mode/type) Valid response to an
+administrative IFF/SIF check request.
+2. (link name) (e.g., TIMBER SWEET)
+Confirms receipt of datalink information.
+3. Equipment indicated is operating efficiently.
+
+SWEPT (w/sub-cardinal
+direction)
+
+II-40
+
+[A/A] Inner GROUP formation with the trailer
+displaced approximately 45 degrees behind the
+leader.
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+SWITCH (item)
+
+1. ** Switch the setting on the referenced
+item.
+2. ** (CAMERA) Switch full motion video to
+EO or IR.
+3. ** (POLARITY) Switch IR polarity to black
+hot or white hot.
+
+SWITCHED
+
+[A/A] Attacker is changing from one aircraft to
+another.
+
+TAG (system, location)
+
+[EW] Response to an emitter ambiguity
+resolution request (COLOR).
+
+TALLY
+
+Sighting of a target, non-friendly aircraft,
+landmark, or enemy position. Opposite of NO
+JOY.
+
+TARGET ( )
+
+1. Assignment of targeting responsibilities.
+2. [A/S] [S/S] ROE, PID, coordination of
+forces, and Commander’s Guidance
+requirements on the referenced target/track
+have been satisfied. Target/track correlation
+and CDE must be accomplished prior to
+employing ordnance/fires.
+
+TARGETED
+
+GROUP responsibility has been met.
+
+TEN SECONDS
+
+[A/S] Standby for LASER ON call in
+approximately 10 seconds.
+
+TERMINATE
+
+1. [A/S] Stop laser illumination of a target.
+2. In training, cease local engagement without
+affecting the overall exercise.
+
+THREAT (direction)
+
+15 June 2005
+
+[A/A] Untargeted HOSTILE/BANDIT/ BOGEY
+is within a briefed range of a friendly aircraft.
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+II-41
+
+THROTTLES
+
+[A/A] Reminder to set throttles appropriately
+considering the IR threat and desired energy
+state.
+
+THUNDER
+
+[A/S] One minute until A/S weapons impact.
+
+TIED
+
+Positive radar contact with element or aircraft.
+
+TIGER
+
+Enough fuel and ordnance to accept a
+commitment.
+
+TIMBER
+
+Link 16 Network.
+
+TIMBER CHANNEL
+
+Stacked net within a Link 16 Network.
+
+TIMECHECK
+
+Check/change IFF code.
+
+TOGGLE
+
+Execute a briefed change of an avionics
+setting.
+
+TOY
+
+HTS pod.
+
+TRACK (direction)
+
+GROUP/CONTACT's direction of
+flight/movement.
+
+TRACKING
+
+IR lock-on.
+
+(system) TRACKING
+
+Enemy air defense system is maintaining
+situational awareness on FRIENDLY.
+
+TRACK NUMBER (#)
+
+Datalink information file.
+
+TRASHED
+
+Missile has been defeated.
+
+TRAVEL
+
+[N] [EW] Change radar frequency.
+
+TRESPASS (system,
+position)
+
+The addressed flight is entering the threat SAM
+ring of a specific (system) at the stated
+location.
+
+TUMBLEWEED
+
+I have limited situational awareness, (i.e., NO
+JOY, BLIND) and request information.
+
+II-42
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+UNABLE
+
+Cannot comply as requested or directed.
+
+UNIFORM
+
+UHF/AM radio.
+
+VACANT
+
+Ground equipment not present at tasked target
+location. Opposite of OCCUPIED.
+
+VAMPIRE
+
+Hostile anti-ship missile.
+
+VECTOR
+
+Alter heading to magnetic heading indicated.
+(Use of true headings to be established before
+operation commences).
+
+VERY FAST
+
+Target speed greater than 900 knots / 1.5
+Mach.
+
+VERY LOW
+
+Target altitude less than 1,000 feet above
+surface.
+
+VERY SLOW
+
+Target speed less than 150 kts.
+
+VIC
+
+[A/A] Picture label with three GROUPS with
+the single closest in range and two GROUPS,
+azimuth split, in trail.
+Group names should be LEAD GROUP and
+NORTH TRAIL GROUP and SOUTH TRAIL
+GROUP or EAST TRAIL GROUP and WEST
+TRAIL GROUP.
+
+VICTOR
+
+VHF/AM radio.
+
+VISUAL
+
+Sighting of a friendly aircraft or ground position.
+Opposite of BLIND.
+
+WALL
+
+[A/A] Picture label with three or more groups
+primarily split in azimuth. Group names should
+be NORTH GROUP, MIDDLE GROUP,
+SOUTH GROUP or WEST GROUP, MIDDLE
+GROUP, EAST GROUP.
+
+15 June 2005
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+II-43
+
+WARNING (color)
+
+Air defense warning. Hostile attack is:
+(RED) Imminent or in progress.
+(YELLOW) Probable.
+(WHITE) Improbable.
+
+WEAPONS ( )
+
+** [S/A] Weapons control status. Fire only:
+1. ** (FREE)—at targets not identified as
+FRIENDLY IAW current ROE.
+2. ** (TIGHT)—at targets positively identified
+as HOSTILE IAW current ROE.
+3. ** (HOLD/SAFE)—in self-defense or in
+response to a formal order.
+
+WEDGE
+
+Three-ship inner GROUP formation with a
+single CONTACT closest in range and two trail
+CONTACTs line abreast.
+
+WEIGHTED (cardinal
+direction)
+
+Multiple GROUP formation (WALL, LADDER,
+VIC, CHAMPAGNE) that is offset in one
+direction.
+
+WHAT LUCK
+
+Request for results of missions or tasks.
+
+II-44
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+WHAT STATE
+
+WIDE
+
+Request for amount of fuel and missiles
+remaining. Response to WHAT STATE is -1. (1st number) number of active radar
+missiles remaining.
+(2nd number) number of semi-active radar
+missiles remaining.
+(3rd number) number of IR missiles remaining.
+(MINUS) No gun/ not sufficient ammunition for
+gun attack.
+BY
+(4th number) thousands of pounds of fuel
+(given to one decimal point), or time remaining.
+Example response to WHAT STATE: “BLUE
+TWO IS 3-1-2 BY 7 POINT 5” is equivalent to 3
+AIM-120s, 1 AIM-7, 2 AIM-9s, gun with
+ammunition, and 7,500 lbs of fuel remaining.
+2. (item) Ammunition and oxygen are
+reported only when specifically requested or
+critical.
+[A/A] Separation between the farthest
+GROUPs in azimuth in a relative formation of
+three or more groups, used to describe a
+WALL, VIC, CHAMPAGNE, or BOX.
+
+WILCO
+
+Will comply with received instructions.
+
+WINCHESTER
+
+No ordnance remaining.
+
+WOOFER
+
+[N] [EW] Off board active radar decoy.
+
+WORDS
+
+Directive or interrogative call regarding further
+information or directives pertinent to the
+mission.
+
+15 June 2005
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+II-45
+
+WORKING
+
+1. (system w/location) Platform gathering
+EOB on a designated emitter.
+2. Platform executing EID on a specific
+aircraft/group to obtain identification necessary
+for BVR employment.
+
+YARDSTICK
+
+Use A/A TACAN for ranging.
+
+ZAP
+
+Request for data link information.
+
+ZIPLIP
+
+Limit transmissions to critical information only.
+(See MINIMIZE.)
+Increase/decrease the sensor’s focal length.
+Note: ZOOM IN/OUT is normally followed by
+“ONE, TWO, THREE, or FOUR” to indicate the
+number of FOVs to change.
+
+ZOOM (IN/OUT)
+
+II-46
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+CHAPTER III
+CATEGORY SYNOPSIS
+1. GENERAL AIR OPERATIONS
+ABORT
+ACTION
+ALFA CHECK
+ALARM
+ANCHOR(ED)
+ANGELS
+ANYFACE
+AS FRAGGED
+AUTHENTICATE
+AUTOCAT
+BASE
+BANDIT
+BEAD WINDOW
+BENT
+BINGO
+BITTERSWEET
+BLIND
+BOGEY
+BRAA
+BREAK
+BREAKAWAY
+BROADCAST
+BUGOUT
+BULLSEYE
+BUSTER
+BUTTON
+BUZZER
+CAP/CAPPING
+CAV-OK
+15 June 2005
+
+CEASE-ENGAGEMENT
+CEASE FIRE
+CHATTERMARK
+CHECK
+CHERUBS
+CHICKS
+CLEAN
+CLEARED
+COLD
+COMEBACK
+CONFETTI
+CONS/CONNING
+CONTACT
+CONTINUE
+CRUISE [N]
+CYCLOPS
+DASH
+DEPLOY
+DIRT
+DIVERT
+ECHO
+ESTIMATE
+FADED
+FEET WET/DRY
+FENCE
+FLARE(S)
+FLASH
+FLAVOR
+FLOAT
+
+FOX MIKE
+FRIENDLY
+GADABOUT [N]
+GADGET
+GATE
+GINGERBREAD
+GO ACTIVE
+GO CLEAR
+GO SECURE
+GOODWILL
+GREEN
+GREYHOUND
+HARD
+HEADS UP
+HIT(S)
+HOLDING HANDS
+HOLD FIRE
+HOME PLATE
+HOOK
+HOSTILE
+HOTDOG
+HOTEL FOX
+ID
+IN PLACE
+INDIA
+INTRUDER
+JINK
+JOKER
+KNOCK IT OFF
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+III-1
+
+LAST
+LEAN
+LINER [N]
+MARKING
+MARSHAL(ING)
+MICKEY
+MIDNIGHT
+MINIMIZE
+MOTHER
+MUSIC
+NEGATIVE CONTACT
+NO FACTOR
+NO JOY
+(system) OKAY
+ORBIT(ING)
+OUTLAW
+PADLOCKED
+PAINT(S)
+PANCAKE [N]
+PARROT
+PIGEONS
+PITCH/PITCHBACK
+PLAYMATE
+PLAYTIME
+POGO
+POLAR BEAR[N]
+POP
+POPEYE
+POSIT
+PRESS
+PUSH
+PUSHING
+
+III-2
+
+REFERENCE
+REPORTED
+RESET
+RESUME
+RETROGRADE
+RIDER
+ROGER
+SADDLED
+SAM
+SAME
+SANDWICHED
+SAUNTER
+SCAN [N]
+SCRAM
+SCRAMBLE
+SCRUB
+SCUD
+SET
+SHACKLE
+SHADOW
+SHOTGUN
+SICK
+SILENT
+SLICE/SLICEBACK
+SKUNK
+SNOOZE
+SOUR
+SPIN
+SPADES
+SPOOFING
+SQUAWK
+SQUAWKING
+
+STATUS
+STRANGER
+STRIPPED
+STROBES
+SUNRISE
+SWEET
+TALLY
+TERMINATE
+TIED
+TIGER
+TIMECHECK
+TRACKING
+TRESPASS
+TUMBLEWEED
+UNABLE
+VAMPIRE
+VECTOR
+VISUAL
+WARNING
+RED
+YELLOW
+WHITE
+WEEDS
+WELL
+WHAT LUCK
+WHAT STATE
+WILCO
+WINCHESTER
+WORDS
+YARDSTICK
+ZIPLIP
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+2. AIR-TO-AIR
+Note: (General air-to-air employment terms for fighters and controllers.)
+
+ACTION
+ABORT
+ACTION
+ALARM
+ALFA CHECK
+ANCHOR(ED)
+ANGELS
+ARM
+AZIMUTH
+BASE
+BANDIT
+BANZAI
+BEAM
+BEARING
+BITTERSWEET
+BLIND
+BLOW THROUGH
+BOGEY
+BOGEY DOPE
+BOX
+BRAA
+BRACKET
+BREAK
+BROADCAST
+BROKE LOCK
+BUDDY LOCK
+BUDDY SPIKE
+BUGOUT
+15 June 2005
+
+BULLSEYE
+BUSTER
+CAP/CAPPING
+CEASE ENGAGEMENT
+CEASE FIRE
+CHAMPAGNE
+CHEAPSHOT
+CHECK
+CHERUBS
+CHICKS
+CLEAN
+CLEARED
+CLOSING
+COLD
+COMEBACK
+COMMIT
+COMPOSITION
+CONFETTI
+CONS/CONNING
+CONTACT
+CONTAINER
+CONTINUE
+COVER
+CRANK
+CROSSING
+CRUISE
+CUTOFF
+CYCLOPS
+
+DASH
+DECLARE
+DEEP
+DELOUSE
+DEFENSIVE
+DEPLOY
+DRAG
+DROP(PING)
+DUCK [N]
+ECHELON
+ECHO
+ENGAGED
+ESTIMATE
+EXTEND(ING)
+EYEBALL
+FADED
+FAST
+FLANK
+FLARE
+FLASH
+FLASHLIGHT
+FLOAT
+FLOW
+FOX THREE
+2ND FOX THREE
+FOX 3 (X)-SHIP
+FRIENDLY
+FURBALL
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+III-3
+
+GADGET
+GATE
+GIMBALL
+GOPHER
+GORILLA
+GRAND SLAM
+GREEN
+GROUP
+GUNS
+HARD
+HEADS UP
+HEAVY
+HIGH
+HIT(S)
+HOLDING HANDS
+HOLD FIRE
+HOOK
+HOSTILE
+HOT
+HOUNDOG [N]
+HUSKY
+ID
+IN
+IN PLACE
+INDIA
+INTERROGATE
+INTERVENE
+INVESTIGATE
+JINK
+JUDY
+KILL
+KNOCK IT OFF
+LADDER
+LAST
+LEAD-TRAIL
+III-4
+
+LEAKER(S)
+LEAN
+LEVEL
+LINE ABREAST
+LINER [N]
+LOCKED
+LOW
+MADDOG
+MANEUVER
+MARKING
+MARSHAL(ING)
+MEDIUM
+MERGE(D)
+MIDNIGHT
+MONITOR(ING)
+MUSIC
+NAILS
+NAKED
+NEAR-FAR
+NEGATIVE CONTACT
+NEW PICTURE
+NO FACTOR
+NO JOY
+NOTCH(ING)
+OFF
+ON STATION
+OPENING
+OUT
+OUTLAW
+PACKAGE
+PACMAN [N]
+PADLOCKED
+PAINT(S)
+PARROT
+PASSING
+
+PICTURE
+PITBULL
+PITCH/PITCHBACK
+PINCE
+PITBULL
+PLAYMATE
+POLAR BEAR
+POP
+POP-UP
+POPEYE
+POSIT
+POST HOLE
+PRESS
+PRINT
+PUMP
+PURE
+PUSH
+PUSHING
+QUAIL
+RANGE
+RAYGUN
+REPORTED
+RESET
+RESUME
+RETROGRADE
+RIDER
+RUMBA
+SADDLED
+SANDWICHED
+SAUNTER
+SCRAM
+SCRAMBLE
+SCRUB
+SEPARATE(ING)
+SEPARATION
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+SHACKLE
+SHADOW
+SHOOTER
+SHOTGUN
+SIDE-SIDE
+SILENT
+SINGLE
+SKATE
+SKIP IT
+SKOSH
+SLICE/SLICEBACK
+SLIDE
+SLOW
+SNAP
+SNAPLOCK
+SNIFF
+SNOOZE
+SORT
+SORTED
+SOUR
+SPADES
+SPIKE(D)
+
+15 June 2005
+
+SPIN
+SPITTER
+SPLASH(ED)
+SPLIT
+SPOOFER
+SQUAWK
+SQUAWKING
+STACK
+STATUS
+STERN
+STINGER
+STRANGER
+STRANGLE
+STRIPPED
+STROBES
+SUNRISE
+SWEET
+SWITCHED
+TACTICAL
+TALLY
+TARGET
+TARGETED
+
+TERMINATE
+THREAT
+THROTTLES
+TIED
+TIGER
+TRACK
+TRASHED
+TUMBLEWEED
+VERY FAST
+VIC
+VISUAL
+WALL
+WEDGE
+WEIGHTED
+WHAT LUCK
+WHAT STATE
+WIDE
+WINCHESTER
+WORKING
+YARDSTICK
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+III-5
+
+3. AIR-TO-SURFACE
+Note: (Terms for general air-to-surface employment for attack aircraft and
+controllers.)
+ABORT
+ATTACK(ING)
+(weapon) AWAY
+BRACKET
+BRUISER
+BUMP/BUMP-UP
+CAPTURED
+CLEARED HOT
+COLD
+COMEOFF
+CONTACT
+CONTINUE
+CONTINUE DRY
+DANGER CLOSE
+DIVERT
+ENGAGE
+GREYHOUND
+
+III-6
+
+HIT(S)
+HOT
+IN
+INVESTIGATE
+KILL
+LONG RIFLE
+LOOKING
+LOW DOWN
+LEAN
+MAGNUM
+MAPPING
+MARK
+MILLER TIME
+MONITOR(ING)
+NO JOY
+OCCUPIED
+OFF
+
+PIG(S) AWAY
+POP
+RIFLE
+RIPPLE
+ROLEX
+SCAN
+SCUD
+SKUNK
+SLIPPING
+SMACK
+SPLASH(ED)
+TALLY
+TARGET
+THUNDER
+VACANT
+VISUAL
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+4. CLOSE AIR SUPPORT (CAS)
+ATTACK(ING)
+ATTACK COMPLETE
+(weapon) AWAY
+BUMP/BUMP-UP
+CAPTURED
+CLEARED
+CLEARED HOT
+CLEARED TO
+ENGAGE
+COLD
+
+COME OFF
+CONTACT
+CONTINUE
+CONTINUE DRY
+DANGER CLOSE
+ENGAGE
+HIT(S)
+HOT
+IN
+LONG RIFLE
+
+LOOKING
+OFF
+OFFSET
+RIFLE
+SMOKE
+SPARKLE
+STOP
+THUNDER
+
+5. COMBAT SEARCH AND RESCUE (CSAR/SAR)
+FLASHLIGHT
+HOLD DOWN
+MARK
+
+MILLER TIME
+PEDRO [N]
+POPCORN
+
+RED LIGHT
+SKINNY
+
+DIAMONDS
+LASER ON
+LASING
+NEGATIVE LASER
+PULSE
+SHIFT
+SPARKLE
+
+SPLASH(ED)
+SPOT
+STARE
+TEN SECONDS
+TERMINATE
+
+6. LASERS
+BUDDY
+LASE/GUIDE
+BUMP/BUMP-UP
+CAPTURED
+CEASE
+CONTACT
+DEADEYE
+
+15 June 2005
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+III-7
+
+7. BASIC NVD/IR/ILLUMINATION
+BURN
+CLOAK
+DEADEYE
+DIAMONDS
+EYEBALL
+FLASH
+FLASHLIGHT
+FREEZE BURN
+
+LIGHTBULB
+LIGHTS ON/OFF
+MOVE BURN
+NEGATIVE
+LASER
+ROPE
+SHIFT
+SMASH
+
+SNAKE
+SPARKLE
+STEADY
+STOP
+STOP BURN
+SUNSHINE
+
+8. DATA LINKS
+Note: (Terms for surveillance, air control, and tactical aircraft data links.)
+
+ALLIGATOR
+BEANSTALK
+BLOTTER
+CHECKPRINT
+COLOR
+DATA
+DIRTY
+DOLLY
+
+III-8
+
+HANDSHAKE
+HOLLOW
+HOOK
+JACKAL
+MARKPOINT
+POINT
+SORT
+SOUR
+
+SWEET
+TAG
+TARGET
+TIMBER
+TRACK NUMBER
+ZAP
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+9. JSTARS
+DETAILS
+IDLE
+LOWDOWN
+
+MOVERS
+RESTAKE
+ROTATOR
+
+SCRUB
+SHOPPING
+STAKE
+
+10. MARITIME AIR OPERATIONS
+BULLRING
+CHARLIE
+DELTA
+FAKER
+
+FATHER
+FUEL STATE
+MONITOR(ING)
+PANCAKE
+
+ROBBER
+SKUNK
+
+11. BASIC SEAD/SIGINT/EW INTEGRATION
+(system) ACTIVE
+ADD
+ALLIGATOR
+ARIZONA
+BAY [N]
+CANDYGRAM
+CLAM [N]
+COLOR
+DATA
+(system) DOWN
+DROP (PING)
+DUFFER
+EMPTY
+FAN_TACK_ [N]
+FEELER [N]
+
+15 June 2005
+
+FERRET [N]
+GENIE
+HOLLOW
+LOWDOWN
+MAGNUM
+MUD
+PILLOW
+RACKET
+RENT
+RETROGRADE
+ROTATOR
+SAM
+SCRAM
+SLAPSHOT
+SINGER
+
+SLIDE
+SLOPE
+SNEAKER[N]
+SNIFF
+SNIPER
+SPLASH(ED)
+SPOOFER
+TAG
+THUNDER
+TOY
+TRACKING
+TRESPASS
+WOOFER[N]
+WORKING
+ZAP
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+III-9
+
+12. SURFACE-TO-AIR
+Note: Terms for surface-to-air units for coordination and deconfliction.
+ABORT
+BIRD
+BIRD(S) AFFIRM
+BIRDS AWAY
+BIRD(S) NEGAT
+BITTERSWEET
+BLIND
+BOGEY
+BRAA
+BULLSEYE
+CEASE ENGAGEMENT
+CEASE FIRE
+CHERUBS
+COMMIT
+CONTACT
+CONTINUE
+COVER
+DECLARE
+DELOUSE
+DIRT
+ENGAGE
+FADED
+
+FEET WET/DRY
+FRIENDLY
+GADGET
+GRANDSLAM
+GREYHOUND
+HIGH
+HOLD FIRE
+HOSTILE
+HOT
+INDIA
+LEAKER(S)
+NO FACTOR
+NO JOY
+PARROT
+RESET
+RIDER
+SCRAM
+SCRUB
+SLOW
+SOUR
+SPADES
+SPIKE
+
+SPLASH(ED)
+SPOOFING
+SQUAWKING
+STRENGTH
+STRANGLE
+SWEET
+TIMBER
+TRACKING
+UNABLE
+VAMPIRE
+VERY FAST
+WARNING
+RED
+YELLOW
+WHITE
+WEAPONS
+FREE
+TIGHT
+HOLD/SAFE
+WILCO
+WINCHESTER
+WORDS
+
+13. SURFACE-TO-SURFACE, ARTILLERY
+CEASE
+CEASE
+CEASE
+CEASE
+
+III-10
+
+ENGAGEMENT
+FIRE
+LOADING
+LASER
+
+CHECK FIRE(ING)
+DANGER CLOSE
+LASER ON
+LASING
+
+MARK
+REPEAT
+SHOT
+SPLASH
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+14. SURFACE-TO-SURFACE, MARITME
+BULLDOG
+CEASEENGAGEMENT
+CEASE FIRE
+CEASE LASER
+CHECK FIRE
+
+DANGER CLOSE
+
+LASER ON
+
+GO ACTIVE
+GO CLEAR
+GREYHOUND
+HOLD FIRE
+
+LASING
+MARK
+
+15. NATO-SPECIFIC TERMS
+BAY
+BEANSTALK
+BLOTTER
+CANYON
+CHATTER
+CHRISTMAS TREE
+CLAM
+CLIFF
+CRISS CROSS
+CRUISE
+CURVE
+DUCK
+FAKER
+
+15 June 2005
+
+FAN__TACK__
+FEELER
+FERRET
+GADABOUT
+GRIDIRON
+HOMING
+HOUNDOG
+HUSH
+OILFIELD
+MULTIPLE
+PACMAN
+PANCAKE
+PEDRO
+
+PHANTOM
+POND
+POST ATTACK
+POLAR BEAR
+PUPPIES
+SCAN
+SNEAKER
+SPOOFING
+TRAVEL
+WOOFER
+ZOMBIE
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+III-11
+
+This page intentionally left blank.
+
+GLOSSARY
+PART I – ABBREVIATIONS AND ACRONYMS
+A/A
+A/S
+AEW
+AFDC
+AFI
+AFTTP(I)
+AGM
+AI
+AIM
+AIR-MAR
+ALSA
+AM
+APP
+ARM
+A/S
+ATO
+BRAA
+BVR
+C2
+C2I
+CAP
+15 June 2005
+
+A
+air-to-air
+air-to-surface
+Airborne Early Warning
+Air Force Doctrine Center
+Air Force Instruction
+Air Force Tactics, Techniques, and
+Procedures
+air-to-ground missile
+air interdiction/air intercept
+air intercept missile
+maritime air
+Air Land Sea Application
+amplitude modulation
+Allied Procedural Publication
+anti-radiation missiles
+air-to-surface
+air tasking order
+B
+bearing, range, altitude, and aspect
+beyond visual range
+C
+command and control
+command, control, and intelligence
+combat air patrol
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+Glossary-1
+
+CAV-OK
+CDE
+CSAR
+DF
+DR
+ECM
+EID
+ELINT
+EMCON
+EO
+EOB
+EW
+FAC
+FAC-A
+FOV
+FT
+FM
+GCI
+GEOREF
+GPS
+HARM
+HF
+HPRF
+HTS
+
+Glossary-2
+
+cloud and visibility okay
+(pronounced kav-okay)
+collateral damage estimate
+combat search and rescue
+D
+direction finding
+decision range
+E
+electronic countermeasures
+electronic identification
+electronic intelligence
+emission control
+electro optical
+electronic order of battle
+electronic warfare
+F
+forward air controller
+forward air controller-airborne
+field of view
+feet
+frequency modulation;
+Field Manual
+G
+ground control intercept
+geographical reference
+global positioning system
+H
+high-speed anti-radiation missile
+high frequency
+high pulse repetition frequency
+HARM targeting system
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+IAW
+ICAO
+ID
+IDN
+IFF
+INS
+IO
+IR
+ISR
+JTAC
+JSOW
+LOS
+LST
+LZ
+MANPADS
+MCCDC
+MCPDS
+MEZ
+MILSTRIP
+MPRF
+MSL
+MTI
+NATO
+NAVSUP
+15 June 2005
+
+I
+in accordance with
+International Civil Aviation Organization
+identification
+initial distribution number
+identification, friend or foe
+inertial navigation system
+information operations
+infrared
+intelligence, surveillance, and
+reconnaissance
+J
+joint terminal attack controller
+joint stand-off weapon
+L
+line of sight
+laser spot tracker
+landing zone
+M
+man portable air defense system
+US Marine Corps Combat Development
+Command
+Marine Corps Publication Distribution System
+missile engagement zone
+Military Standard Requisition and Issue
+Procedure
+medium pulse repetition frequency
+mean sea level
+moving target indicator
+N
+North Atlantic Treaty Organization
+Navy Supplement Publication
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+Glossary-3
+
+NCTR
+NM
+NPG
+NVD
+NWDC
+OPR
+OPTASK
+PDT
+PID
+PRF
+RCO
+ROE
+ROVER
+RSO
+RWR
+S/A
+SAM
+SAR
+SEAD
+SIF
+SIGINT
+S/S
+TACAN
+TADIL
+TBM
+TIDS
+TLAM
+TN
+Glossary-4
+
+noncooperative target recognition
+nautical mile
+network participation group
+night vision device
+Navy Warfare Development Command
+O
+office of primary responsibility
+operational tasking
+P
+primary designated track
+positive identification
+pulse repetition frequency
+R
+Range Control Officer
+rules of engagement
+receive-only video receiver
+Range Safety Officer
+radar warning receiver
+S
+surface-to-air
+surface-to-air missile
+search and rescue
+suppression of enemy air defenses
+selective identification feature
+signals intelligence
+surface-to surface
+T
+tactical air navigation
+tactical digital information link
+tactical/theater ballistic missile
+tactical imagery dissemination system
+Tomahawk land-attack missile
+track number
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+15 June 2005
+
+TOD
+TRADOC
+UAV
+UHF
+US
+VHF
+VID
+WP
+
+15 June 2005
+
+time of day
+US Army Training and Doctrine Command
+U
+unmanned aerial vehicle
+ultra high frequency
+United States
+V
+very high frequency
+visual identification
+W, X, Y, Z
+white phosphorus
+
+FM 1-02.1/MCRP 3-25B/NTTP 6-02.1/AFTTP(I) 3-2.5
+
+Glossary-5
+
+This page intentionally left blank.
+
+FM 1-02.1 (FM 3-54.10)
+MCRP 3-25B
+NTTP 6-02.1
+AFTTP(I) 3-2.5
+15 June 2005
+By Order of the Secretary of the Army:
+
+PETER J. SCHOOMAKER
+
+Official:
+
+General, United States Army
+Chief of Staff
+SANDRA R. RILEY
+Administrative Assistant to the
+Secretary of the Army
+
+0518701
+
+DISTRIBUTION:
+Active Army, Army National Guard, and US Army Reserve: Distribute in
+accordance with the initial distribution number (IDN) 115456, requirements for
+FM 1-02.1.
+By Order of the Secretary of the Air Force:
+
+BENTLEY B. RAYBURN
+Major General, USAF
+Commander
+Headquarters Air Force Doctrine Center
+Air Force Distribution: F
+Supersedes AFTTP(I), 3-2.5, June 2003.
+
+This page intentionally left blank.
+
+MARINE CORPS PCN: 144 000015 00
+
+PIN: 082563-000
+
+
