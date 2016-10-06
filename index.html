@@ -11,7 +11,7 @@
 <style style="text/css">
 .example3 h3 {
  position: absolute;
- bottom:0;
+ top:0;
  width: 100%;
  height: 100%;
  margin: 0;
@@ -20,37 +20,6 @@
  color: white;
  background-color: black;
 
-
-
- /* Starting position */
- -moz-transform:translateY(-300%);
- -webkit-transform:translateY(-300%);	
- transform:translateY(-300%);
- /* Apply animation to this element */	
- -moz-animation: example3 15s linear infinite;
- -webkit-animation: example3 15s linear infinite;
- animation: example3 15s linear infinite;
-}
-/* Move it (define the animation) */
-@-moz-keyframes example3 {
- 0%   { -moz-transform: translateY(-100%); }
- 100% { -moz-transform: translateY(100%); }
-}
-@-webkit-keyframes example3 {
- 0%   { -webkit-transform: translateY(-100%); }
- 100% { -webkit-transform: translateY(100%); }
-}
-@keyframes example3 {
- 0%   { 
- -moz-transform: translateY(-100%); /* Firefox bug fix */
- -webkit-transform: translateY(-100%); /* Firefox bug fix */
- transform: translateY(-100%); 		
- }
- 100% { 
- -moz-transform: translateY(100%); /* Firefox bug fix */
- -webkit-transform: translateY(100%); /* Firefox bug fix */
- transform: translateY(100%); 
- }
 }
 </style>
 </head>
@@ -79,7 +48,7 @@ EYEBALL <i>intact</i><br>
 GO BROADCAST <i>a life</i><br>
 GO <i>imprac</i>TACTICAL<br>
 HOMING <i>homeing</i><br>
-<br>i<br>i<br>i<br>i<br>i<br>
+
 </h3>
 </div>
 
